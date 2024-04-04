@@ -983,6 +983,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 9147457390299288725, guid: 32d592d6c97ad6d46b305107e62d4aee,
+        type: 3}
+      propertyPath: m_text
+      value: 'By: Em Martin'
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 5698595928749632344, guid: 32d592d6c97ad6d46b305107e62d4aee, type: 3}
